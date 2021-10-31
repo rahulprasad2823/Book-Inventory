@@ -21,8 +21,10 @@ It contains the list of books in store and contains information about its copies
   
   * Delete and Edit options are only for the books that are in the inventory.
   
- ** Installation and Running the server **
+ ** Installation and Running the server *
  * Create a virtual environment.
+ * Git clone https://git.heroku.com/bookinventory-rahul.git
+ 
  
  
 ** Install Requirements **
